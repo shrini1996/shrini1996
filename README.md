@@ -1,16 +1,33 @@
-## Hi there 👋
+🌸 Hi, I am Shrotashrini Bhattacharjya
+🎓 B.Tech Graduate | Aspiring Data Analyst
+📊 Passionate about transforming raw data into meaningful solutions and patterns.
 
-<!--
-**shrini1996/shrini1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Analyst Background :
+🔍 Curious about discovering patterns and trends that create business value
 
-Here are some ideas to get you started:
+📈 Skilled in Excel, SQL, Power BI and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧹Comfortable in handling messy data and performing in-depth exploratory analysis
+
+🌱 Continously enchancing my analytical thinking and problem solving abilities
+
+🛠️ Tools & Technologies:
+Languages - SQL and Python
+
+Libraries - Pandas, NumPy, Scikit, Seaborn, Matplotlib
+
+Tools - Excel, Power BI
+
+📂 Projects:
+McDonald's Sales Insights & Dashboard (Advanced Excel)
+
+Jenson USA (Advanced SQL)
+
+ITC Hotels (Advanced Power BI)
+
+Customer Sentiment Analysis (Python)
+
+📫 Connect With Me
+LinkedIn - www.linkedin.com/in/shrini199628
+
+Email - shrotashrini11@gmail.com
